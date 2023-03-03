@@ -1,0 +1,1 @@
+select * from employees where employeeNumber = '1188' or employeeNumber = '1504';
